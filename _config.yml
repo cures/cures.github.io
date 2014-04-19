@@ -8,12 +8,12 @@ permalink:        pretty
 # Setup
 title:            Lanyon
 tagline:          'Cures'
-description:      'A reservejjd <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Acne Cure Zone features a number of brilliant resources that are curated and discussed in the Acne Cure Zone. Here you may find cures or at the least concise help written by people who have seen their acne resolved.'
 url:              http://cures.lukeaslanian.com
 
 author:
-  name:           'Luke Aslanian'
-  url:            https://twitter.com/mdo
+  name:           'Michael Aslanian'
+  url:            https://acnecurezone.com
 
 paginate:         5
 
