@@ -41,12 +41,12 @@ body {
 }
 
 html {
-  font-family: "Iowan", "EB Garamond", Georgia, "Times New Roman", serif;
+  font-family: "Iowan Old Style", "EB Garamond", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Avenir Next", "Raleway", Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  font-weight: 800;
   color: #313131;
   letter-spacing: -.025rem;
 }
